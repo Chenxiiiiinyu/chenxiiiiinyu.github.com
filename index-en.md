@@ -1,6 +1,6 @@
 [链接描述](url)
 [英文版](index-en.md)
-Name: <table border="0">
+<table border="0">
   <tr>
     <td width="75%">
 <h1>Name：Chen xinyu</h1>
