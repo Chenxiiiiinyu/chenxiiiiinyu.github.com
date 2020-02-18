@@ -9,7 +9,8 @@
       <p><b>地址：浙江省宁波市鄞州区盛莫路1519号浙江万里学院，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">
     </td>
   </tr>
 </table>
+<a href="/index-en.html">英文版</a>
