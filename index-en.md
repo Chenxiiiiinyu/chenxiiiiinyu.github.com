@@ -11,7 +11,7 @@
       <p><b>Address: zhejiang wanli college, no. 1519 shengmo road, yinzhou district, ningbo city, zhejiang province, zip code ×××</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhengjianzhao.jpg" width="100%">
     </td>
   </tr>
 </table>
