@@ -13,6 +13,9 @@
       <p><b>高中：北海市北海中学
       <p><b>项目研究
       <p><b>荣誉奖励
+      <p><b>·奖学金
+      <p><b>·荣誉称号
+      <p><b>·比赛获奖
 </td>
     <td width="25%">
       <img src="/zhengjianzhao.jpg" width="100%">
